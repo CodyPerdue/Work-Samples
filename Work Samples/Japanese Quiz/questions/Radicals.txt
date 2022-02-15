@@ -1,0 +1,96 @@
+Radicals	T/F: The "一" radical stands for "ground".	T	Level1	T/F
+Radicals	T/F: The "丨" radical stands for "stick".	T	Level1	T/F
+Radicals	T/F: The "丿" radical stands for "barb".	F	Level1	T/F
+Radicals	T/F: The "亅" radical stands for "barb".	T	Level1	T/F
+Radicals	T/F: The "丶" radical stands for "drop".	T	Level1	T/F
+Radicals	T/F: The "人" radical stands for "enter".	F	Level1	T/F
+Radicals	T/F: The "小" radical stands for "small".	T	Level2	T/F
+Radicals	T/F: The "立" radical stands for "stand".	T	Level2	T/F
+Radicals	T/F: The "立" radical stands for "writing".	F	Level2	T/F
+Radicals	T/F: The "石 " radical stands for "stone".	T	Level2	T/F
+Radicals	T/F: The "石 " radical stands for "right".	F	Level2	T/F
+Radicals	T/F: The "又" radical stands for "writing".	F	Level2	T/F
+Radicals	T/F: The "也" radical stands for "alligator".	T	Level3	T/F
+Radicals	T/F: The "也" radical stands for "crocodile".	F	Level3	T/F
+Radicals	T/F: The "巴" radical stands for "bed".	T	Level3	T/F
+Radicals	T/F: The "巴" radical stands for "color".	F	Level3	T/F
+Radicals	T/F: The "支" radical stands for "branch".	T	Level3	T/F
+Radicals	T/F: The "支" radical stands for "saw".	F	Level3	T/F
+Radicals	T/F: The "开" radical stands for "lantern".	T	Level4	T/F
+Radicals	T/F: The "开" radical stands for "twenty".	F	Level4	T/F
+Radicals	T/F: The "可" radical stands for "lip ring".	T	Level4	T/F
+Radicals	T/F: The "可" radical stands for "what".	F	Level4	T/F
+Radicals	T/F: The "肉" radical stands for "meat".	T	Level4	T/F
+Radicals	T/F: The "肉" radical stands for "inside".	F	Level4	T/F
+Radicals	Put the radicals in the correct order.     大 工 十 入     enter ten construction big	big construction ten enter	Level1	Matching
+Radicals	Put the radicals in the correct order.     ハ 亠 山 口     fins lid mountain mouth	fins lid mountain mouth	Level1	Matching
+Radicals	Put the radicals in the correct order.     九 力 勹 川     power river prison nine	nine power prison river	Level1	Matching
+Radicals	Put the radicals in the correct order.     七 日 卜 木      seven tree toe sun	seven sun toe tree	Level1	Matching
+Radicals	Put the radicals in the correct order.     二 女 弓 子     woman two bow child	two woman bow child	Level1	Matching
+Radicals	Put the radicals in the correct order.     牛 土 犬 夕     dog dirt evening cow	cow dirt dog evening	Level1	Matching
+Radicals	Put the radicals in the correct order.     又 止 刀 水     stool stop sword water	stool stop sword water	Level2	Matching
+Radicals	Put the radicals in the correct order.     石 立 子 小     write child stone small	stone write child small	Level2	Matching
+Radicals	Put the radicals in the correct order.     彡 手 文 矢     arrow writing hand hair	hair hand writing arrow	Level2	Matching
+Radicals	Put the radicals in the correct order.     五 火 广 方     five direction canopy fire	five fire canopy direction	Level2	Matching
+Radicals	Put the radicals in the correct order.     月 日 目 白     white sun moon eye	moon sun eye white	Level2	Matching
+Radicals	Put the radicals in the correct order.     戸 王 干 父     king door father dry	door king dry father	Level2	Matching
+Radicals	Put the radicals in the correct order.     竹 車 弋 厂     bamboo car ceremony cliff	bamboo car ceremony cliff	Level3	Matching
+Radicals	Put the radicals in the correct order.     耳 气 艹 足     foot flowers energy ear	ear energy flowers foot	Level3	Matching
+Radicals	Put the radicals in the correct order.     冖 虫 ｲ 彳     insect loiter leader forehead	forehead insect leader loiter	Level3	Matching
+Radicals	Put the radicals in the correct order.     主 寸 不 兀     not pi master measurement	master measurement not pi	Level3	Matching
+Radicals	Put the radicals in the correct order.     皿 赤 米 宀     plate rice roof red	plate red rice roof	Level3	Matching
+Radicals	Put the radicals in the correct order.     士 見 貝 ネ     spirit samurai shellfish see	samurai see shellfish spirit	Level3	Matching
+Radicals	Put the radicals in the correct order.     会 冋 雨 走     meet mustache rain run	meet mustache rain run	Level4	Matching
+Radicals	Put the radicals in the correct order.     廾 氵 自 言     say self tsunami twenty	twenty tsunami self say	Level4	Matching
+Radicals	Put the radicals in the correct order.     凵 里 占 西     box fortune village west	box village fortune west	Level4	Matching
+Radicals	Put the radicals in the correct order.     ヨ 禾 毋 市     city grain window wolverine	wolverine grain window city	Level4	Matching
+Radicals	Put the radicals in the correct order.     亡 ホ 犭 未     angel animal death jet	death angel animal jet	Level4	Matching
+Radicals	Put the radicals in the correct order.     血 刂 食 灬     blood boil eat knife	blood knife eat boil	Level4	Matching
+Radicals	What is the correct name for the radical "目"?     eye sun white self	eye	Level1	MultipleChoice
+Radicals	What is the correct name for the radical "火"?     dog fire big tree	fire	Level1	MultipleChoice
+Radicals	What is the correct name for the radical "五"?     seven six five four	five	Level1	MultipleChoice
+Radicals	What is the correct name for the radical "尸"?     toe door stand flag	flag	Level1	MultipleChoice
+Radicals	What is the correct name for the radical "彡"?     hair three wind fur	hair	Level1	MultipleChoice
+Radicals	What is the correct name for the radical "手"?     fur hand thousand branch	hand	Level1	MultipleChoice
+Radicals	What is the correct name for the radical "扌"?     finger puzzle arrow train	finger	Level2	MultipleChoice
+Radicals	What is the correct name for the radical "毛"?     hand fur finger flower	fur	Level2	MultipleChoice
+Radicals	What is the correct name for the radical "𠆢"?     person arrow hat carrot	hat	Level2	MultipleChoice
+Radicals	What is the correct name for the radical "心"?     life umbrella rain heart	heart	Level2	MultipleChoice
+Radicals	What is the correct name for the radical "生"?     cow life rice ground	life	Level2	MultipleChoice
+Radicals	What is the correct name for the radical "今"?     today ramen now spinner	now	Level2	MultipleChoice
+Radicals	What is the correct name for the radical "糸"?     thread insect private under	thread	Level3	MultipleChoice
+Radicals	What is the correct name for the radical "乚"?     spirit umbrella bill letter	umbrella	Level3	MultipleChoice
+Radicals	What is the correct name for the radical "世"?     say place world bucket	world	Level3	MultipleChoice
+Radicals	What is the correct name for the radical "斤"?     king near bread axe	axe	Level3	MultipleChoice
+Radicals	What is the correct name for the radical "青"?     moon life blue sky	blue	Level3	MultipleChoice
+Radicals	What is the correct name for the radical "耂"?     somebody coffin teacher run	coffin	Level3	MultipleChoice
+Radicals	What is the correct name for the radical "欠"?     lack next person prison	lack	Level4	MultipleChoice
+Radicals	What is the correct name for the radical "斗"?     science ladle course x	ladle	Level4	MultipleChoice
+Radicals	What is the correct name for the radical "長"?     leader eat long good	long	Level4	MultipleChoice
+Radicals	What is the correct name for the radical "マ"?     marinara mango marble mama	mama	Level4	MultipleChoice
+Radicals	What is the correct name for the radical "首"?     way wrist neck ankle	neck	Level4	MultipleChoice
+Radicals	What is the correct name for the radical "羊"?     wool sheep fur hand	sheep	Level4	MultipleChoice
+Radicals	The "冂" radical stands for _____.	head	Level1	FillInTheBlank
+Radicals	The "王" radical stands for _____.	king	Level1	FillInTheBlank
+Radicals	The "儿" radical stands for _____.	legs	Level1	FillInTheBlank
+Radicals	The "月" radical stands for _____.	moon	Level1	FillInTheBlank
+Radicals	The "厶" radical stands for _____.	private	Level1	FillInTheBlank
+Radicals	The "田" radical stands for _____.	rice field	Level1	FillInTheBlank
+Radicals	The "古" radical stands for _____.	old	Level2	FillInTheBlank
+Radicals	The "元" radical stands for _____.	origin	Level2	FillInTheBlank
+Radicals	The "匕" radical stands for _____.	spoon	Level2	FillInTheBlank
+Radicals	The "用" radical stands for _____.	task	Level2	FillInTheBlank
+Radicals	The "⺌" radical stands for _____.	triceratops	Level2	FillInTheBlank
+Radicals	The "巾" radical stands for _____.	towel	Level2	FillInTheBlank
+Radicals	The "色" radical stands for _____.	color	Level3	FillInTheBlank
+Radicals	The "羽" radical stands for _____.	feathers	Level3	FillInTheBlank
+Radicals	The "行" radical stands for _____.	go	Level3	FillInTheBlank
+Radicals	The "金" radical stands for _____.	gold	Level3	FillInTheBlank
+Radicals	The "冫" radical stands for _____.	ice	Level3	FillInTheBlank
+Radicals	The "乍" radical stands for _____.	key	Level3	FillInTheBlank
+Radicals	The "舌" radical stands for _____.	tongue	Level4	FillInTheBlank
+Radicals	The "歹" radical stands for _____.	yakuza	Level4	FillInTheBlank
+Radicals	The "鳥" radical stands for _____.	bird	Level4	FillInTheBlank
+Radicals	The "黒" radical stands for _____.	black	Level4	FillInTheBlank
+Radicals	The "舟" radical stands for _____.	boat	Level4	FillInTheBlank
+Radicals	The "周" radical stands for _____.	circumference	Level4	FillInTheBlank

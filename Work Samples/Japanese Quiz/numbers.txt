@@ -1,0 +1,13 @@
+Hiragana	4
+Katakana	4
+Radicals	4
+Kanji	4
+Vocabulary	4
+Level1	5
+Level2	5
+Level3	5
+Level4	5
+T/F	5
+Matching	5
+MultipleChoice	5
+FillInTheBlank	5

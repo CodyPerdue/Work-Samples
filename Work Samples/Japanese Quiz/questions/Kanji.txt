@@ -1,0 +1,96 @@
+Kanji	T/F: The kanji pronunciation of "上" is "jyou".	T	Level1	T/F
+Kanji	T/F: The kanji pronunciation of "下" is "shita".	F	Level1	T/F
+Kanji	T/F: The kanji pronunciation of "大" is "oo".	F	Level1	T/F
+Kanji	T/F: The kanji pronunciation of "工" is "kou".	T	Level1	T/F
+Kanji	T/F: The kanji pronunciation of "八" is "hachi".	T	Level1	T/F
+Kanji	T/F: The kanji pronunciation of "入" is "nyuu".	T	Level1	T/F
+Kanji	T/F: The kanji pronunciation of "小" is "shou".	T	Level2	T/F
+Kanji	T/F: The kanji pronunciation of "立" is "ritsu".	T	Level2	T/F
+Kanji	T/F: The kanji pronunciation of "丁" is "chou".	T	Level2	T/F
+Kanji	T/F: The kanji pronunciation of "日" is "nichi".	T	Level2	T/F
+Kanji	T/F: The kanji pronunciation of "刀" is "katana".	F	Level2	T/F
+Kanji	T/F: The kanji pronunciation of "刀" is "tou".	T	Level2	T/F
+Kanji	T/F: The kanji pronunciation of "冬" is "fuyu".	T	Level3	T/F
+Kanji	T/F: The kanji pronunciation of "冬" is "natsu".	F	Level3	T/F
+Kanji	T/F: The kanji pronunciation of "竹" is "take".	T	Level3	T/F
+Kanji	T/F: The kanji pronunciation of "竹" is "takenoko".	F	Level3	T/F
+Kanji	T/F: The kanji pronunciation of "車" is "sha".	T	Level3	T/F
+Kanji	T/F: The kanji pronunciation of "車" is "kuruma".	F	Level3	T/F
+Kanji	T/F: The kanji pronunciation of "年" is "nen".	T	Level4	T/F
+Kanji	T/F: The kanji pronunciation of "年" is "toshi".	F	Level4	T/F
+Kanji	T/F: The kanji pronunciation of "角" is "kaku".	T	Level4	T/F
+Kanji	T/F: The kanji pronunciation of "角" is "kado".	F	Level4	T/F
+Kanji	T/F: The kanji pronunciation of "斤" is "kin".	T	Level4	T/F
+Kanji	T/F: The kanji pronunciation of "斤" is "chi".	F	Level4	T/F
+Kanji	Put the kanji pronunciations in the correct order.     山 口 九 一     san kou kyuu ichi	san kou kyuu ichi	Level1	Matching
+Kanji	Put the kanji pronunciations in the correct order.     人 力 川 七     shichi kawa ryoku nin	nin ryoku kawa shichi	Level1	Matching
+Kanji	Put the kanji pronunciations in the correct order.     十 三 ニ 女     jyuu san jyo ni	jyuu san ni jyo	Level1	Matching
+Kanji	Put the kanji pronunciations in the correct order.     又 玉 本 子     tama mata hon shi	mata tama hon shi	Level1	Matching
+Kanji	Put the kanji pronunciations in the correct order.     丸 正 土 犬     do sei maru inu	maru sei do inu	Level1	Matching
+Kanji	Put the kanji pronunciations in the correct order.     出 目 了 火     ka me shutsu ryou	shutsu me ryou ka	Level1	Matching
+Kanji	Put the kanji pronunciations in the correct order.     千 木 水 白     sen moku sui haku	sen moku sui haku	Level2	Matching
+Kanji	Put the kanji pronunciations in the correct order.     文 円 矢 市     shi ya en bun	bun en ya shi	Level2	Matching
+Kanji	Put the kanji pronunciations in the correct order.     牛 切 方 戸     setsu gyuu to hou	gyuu setsu hou to	Level2	Matching
+Kanji	Put the kanji pronunciations in the correct order.     太 父 少 友     chichi shou yuu tai	tai chichi shou yuu	Level2	Matching
+Kanji	Put the kanji pronunciations in the correct order.     毛 半 心 内     nai han mou shin	mou han shin nai	Level2	Matching
+Kanji	Put the kanji pronunciations in the correct order.     生 台 母 午     haha dai go sei	sei dai haha go	Level2	Matching
+Kanji	Put the kanji pronunciations in the correct order.     央 写 仕 耳     ou sha shi mimi	ou sha shi mimi	Level3	Matching
+Kanji	Put the kanji pronunciations in the correct order.     早 気 平 花     hana hei ki sou	sou ki hei hana	Level3	Matching
+Kanji	Put the kanji pronunciations in the correct order.     足 打 百 氷     da hyaku soku koori	soku da hyaku koori	Level3	Matching
+Kanji	Put the kanji pronunciations in the correct order.     虫 字 男 主     dan ji shu mushi	mushi ji dan shu	Level3	Matching
+Kanji	Put the kanji pronunciations in the correct order.     名 不 号 他     fu gou ta mei	mei fu gou ta	Level3	Matching
+Kanji	Put the kanji pronunciations in the correct order.     去 皿 先 赤     kyo aka sen sara	kyo sara sen aka	Level3	Matching
+Kanji	Put the kanji pronunciations in the correct order.     青 体 色 来     rai iro tai sei	sei tai iro rai	Level4	Matching
+Kanji	Put the kanji pronunciations in the correct order.     社 当 図 毎     tou zu mai sha	sha tou zu mai	Level4	Matching
+Kanji	Put the kanji pronunciations in the correct order.     羽 林 行 金     kin hane kou hayashi	hane hayashi kou kin	Level4	Matching
+Kanji	Put the kanji pronunciations in the correct order.     草 里 作 多     kusa saku sato ta	kusa sato saku ta	Level4	Matching
+Kanji	Put the kanji pronunciations in the correct order.     肉 会 交 近     kai kou kin niku	niku kai kou kin	Level4	Matching
+Kanji	Put the kanji pronunciations in the correct order.     兄 雨 米 走     bei ame sou kyou	kyou ame bei sou	Level4	Matching
+Kanji	What is the correct kanji pronunciation for "五"?     go ko sei shuu	go	Level1	MultipleChoice
+Kanji	What is the correct kanji pronunciation for "四"?     yon shi nana shichi	shi	Level1	MultipleChoice
+Kanji	What is the correct kanji pronunciation for "才"?     o en sai kou	sai	Level1	MultipleChoice
+Kanji	What is the correct kanji pronunciation for "手"?     mou ke ito te	te	Level1	MultipleChoice
+Kanji	What is the correct kanji pronunciation for "天"?     shi sai ten jyuu	ten	Level1	MultipleChoice
+Kanji	What is the correct kanji pronunciation for "王"?     jyo ou ji tama	ou	Level1	MultipleChoice
+Kanji	What is the correct kanji pronunciation for "北"?     hoku tou nan sei	hoku	Level2	MultipleChoice
+Kanji	What is the correct kanji pronunciation for "今"?     ima kon kitsu ne	kon	Level2	MultipleChoice
+Kanji	What is the correct kanji pronunciation for "古"?     dai gaku ko kou	ko	Level2	MultipleChoice
+Kanji	What is the correct kanji pronunciation for "元"?     ji moto aka gen	gen	Level2	MultipleChoice
+Kanji	What is the correct kanji pronunciation for "外"?     gai kou dai jin	gai	Level2	MultipleChoice
+Kanji	What is the correct kanji pronunciation for "分"?     wa mon bun mi	bun	Level2	MultipleChoice
+Kanji	What is the correct kanji pronunciation for "休"?     kyuu tai yasu moku	kyuu	Level3	MultipleChoice
+Kanji	What is the correct kanji pronunciation for "申"?     yuu mou kou chuu	mou	Level3	MultipleChoice
+Kanji	What is the correct kanji pronunciation for "見"?     kai ata mi getsu	mi	Level3	MultipleChoice
+Kanji	What is the correct kanji pronunciation for "貝"?     kani gu fu kai	kai	Level3	MultipleChoice
+Kanji	What is the correct kanji pronunciation for "石"?     sa ishi seki yuu	seki	Level3	MultipleChoice
+Kanji	What is the correct kanji pronunciation for "代"?     ka dai wa ta	dai	Level3	MultipleChoice
+Kanji	What is the correct kanji pronunciation for "同"?     dou kou shi ku	dou	Level4	MultipleChoice
+Kanji	What is the correct kanji pronunciation for "言"?     wa gen i koto	gen	Level4	MultipleChoice
+Kanji	What is the correct kanji pronunciation for "自"?     haku nichi ji moku	ji	Level4	MultipleChoice
+Kanji	What is the correct kanji pronunciation for "形"?     katachi kata kin kei	kei	Level4	MultipleChoice
+Kanji	What is the correct kanji pronunciation for "皮"?     ha kare hi kawa	hi	Level4	MultipleChoice
+Kanji	What is the correct kanji pronunciation for "空"?     sora kuu kyuu totsu	kuu	Level4	MultipleChoice
+Kanji	The kanji pronunciation for "左" is _____?	sa	Level1	FillInTheBlank
+Kanji	The kanji pronunciation for "中" is _____?	chuu	Level1	FillInTheBlank
+Kanji	The kanji pronunciation for "月" is _____?	getsu	Level1	FillInTheBlank
+Kanji	The kanji pronunciation for "田" is _____?	ta	Level1	FillInTheBlank
+Kanji	The kanji pronunciation for "右" is _____?	yuu	Level1	FillInTheBlank
+Kanji	The kanji pronunciation for "六" is _____?	roku	Level1	FillInTheBlank
+Kanji	The kanji pronunciation for "公" is _____?	kou	Level2	FillInTheBlank
+Kanji	The kanji pronunciation for "引" is _____?	hi	Level2	FillInTheBlank
+Kanji	The kanji pronunciation for "止" is _____?	shi	Level2	FillInTheBlank
+Kanji	The kanji pronunciation for "用" is _____?	you	Level2	FillInTheBlank
+Kanji	The kanji pronunciation for "万" is _____?	man	Level2	FillInTheBlank
+Kanji	The kanji pronunciation for "広" is _____?	hiro	Level2	FillInTheBlank
+Kanji	The kanji pronunciation for "礼" is _____?	rei	Level3	FillInTheBlank
+Kanji	The kanji pronunciation for "糸" is _____?	ito	Level3	FillInTheBlank
+Kanji	The kanji pronunciation for "町" is _____?	chou	Level3	FillInTheBlank
+Kanji	The kanji pronunciation for "宝" is _____?	hou	Level3	FillInTheBlank
+Kanji	The kanji pronunciation for "村" is _____?	mura	Level3	FillInTheBlank
+Kanji	The kanji pronunciation for "世" is _____?	se	Level3	FillInTheBlank
+Kanji	The kanji pronunciation for "音" is _____?	on	Level4	FillInTheBlank
+Kanji	The kanji pronunciation for "学" is _____?	gaku	Level4	FillInTheBlank
+Kanji	The kanji pronunciation for "光" is _____?	kou	Level4	FillInTheBlank
+Kanji	The kanji pronunciation for "考" is _____?	kou	Level4	FillInTheBlank
+Kanji	The kanji pronunciation for "回" is _____?	kai	Level4	FillInTheBlank
+Kanji	The kanji pronunciation for "谷" is _____?	tani	Level4	FillInTheBlank

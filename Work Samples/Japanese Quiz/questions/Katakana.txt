@@ -1,0 +1,96 @@
+Katakana	T/F: The pronunciation of "ア" is "a".	T	Level1	T/F
+Katakana	T/F: The pronunciation of "イ" is "i".	T	Level1	T/F
+Katakana	T/F: The pronunciation of "ウ" is "i".	F	Level1	T/F
+Katakana	T/F: The pronunciation of "エ" is "e".	T	Level1	T/F
+Katakana	T/F: The pronunciation of "オ" is "a".	F	Level1	T/F
+Katakana	T/F: The pronunciation of "オ" is "o".	T	Level1	T/F
+Katakana	T/F: The pronunciation of "ガ" is "ka".	F	Level2	T/F
+Katakana	T/F: The pronunciation of "ザ" is "za".	T	Level2	T/F
+Katakana	T/F: The pronunciation of "ダ" is "da".	T	Level2	T/F
+Katakana	T/F: The pronunciation of "ボ" is "po".	F	Level2	T/F
+Katakana	T/F: The pronunciation of "ポ" is "po".	T	Level2	T/F
+Katakana	T/F: The pronunciation of "ザ" is "gi".	F	Level2	T/F
+Katakana	T/F: The pronunciation of "キャ" is "kya".	T	Level3	T/F
+Katakana	T/F: The pronunciation of "ニュ" is "nya".	F	Level3	T/F
+Katakana	T/F: The pronunciation of "ヒョ" is "pyo".	F	Level3	T/F
+Katakana	T/F: The pronunciation of "ミャ" is "mya".	T	Level3	T/F
+Katakana	T/F: The pronunciation of "リュ" is "ryu".	T	Level3	T/F
+Katakana	T/F: The pronunciation of "ショ" is "shou".	F	Level3	T/F
+Katakana	T/F: The pronunciation of "ギャ" is "gya".	T	Level4	T/F
+Katakana	T/F: The pronunciation of "ビュ" is "byu".	T	Level4	T/F
+Katakana	T/F: The pronunciation of "ピョ" is "pyo".	T	Level4	T/F
+Katakana	T/F: The pronunciation of "ジャ" is "sha".	F	Level4	T/F
+Katakana	T/F: The pronunciation of "ギャ" is "kya".	F	Level4	T/F
+Katakana	T/F: The pronunciation of "ビュ" is "pyu".	F	Level4	T/F
+Katakana	Put the pronunciations in the correct order.     キ ケ サ チ     chi sa ke ki	ki ke sa chi	Level1	Matching
+Katakana	Put the pronunciations in the correct order.     ソ タ チ ツ     so ta chi tsu	so ta chi tsu	Level1	Matching
+Katakana	Put the pronunciations in the correct order.     ト テ ニ ナ     ni te to na	to te ni na	Level1	Matching
+Katakana	Put the pronunciations in the correct order.     ヌ ノ ネ ハ     no ne ha nu	nu no ne ha	Level1	Matching
+Katakana	Put the pronunciations in the correct order.     ヒ ホ ヘ フ     hi he ho fu	hi ho he fu	Level1	Matching
+Katakana	Put the pronunciations in the correct order.     ミ マ ム メ     me mu ma mi	mi ma mu me	Level1	Matching
+Katakana	Put the pronunciations in the correct order.     ギ グ ゲ ゴ     gu ge gi go	gi gu ge go	Level2	Matching
+Katakana	Put the pronunciations in the correct order.     ゾ ゼ ズ ジ     zo ze ji zu	zo ze zu ji	Level2	Matching
+Katakana	Put the pronunciations in the correct order.     ヂ デ ヅ ド     do dzu de dji	dji de dzu do	Level2	Matching
+Katakana	Put the pronunciations in the correct order.     ボ ビ ベ ブ     bi be bo bu	bo bi be bu	Level2	Matching
+Katakana	Put the pronunciations in the correct order.     ペ プ ピ ポ     pe po pu pi	pe pu pi po	Level2	Matching
+Katakana	Put the pronunciations in the correct order.     ゾ ゴ ド ボ     go zo bo do	zo go do bo	Level2	Matching
+Katakana	Put the pronunciations in the correct order.     キャ キュ キョ     kya kyu kyo	kya kyu kyo	Level3	Matching
+Katakana	Put the pronunciations in the correct order.     ニョ ニュ ニャ     nya nyu nyo	nyo nyu nya	Level3	Matching
+Katakana	Put the pronunciations in the correct order.     ヒュ ヒャ ヒョ     hya hyu hyo	hyu hya hyo	Level3	Matching
+Katakana	Put the pronunciations in the correct order.     ミャ ミョ ミュ     mya myu myo	mya myo myu	Level3	Matching
+Katakana	Put the pronunciations in the correct order.     リョ リャ リュ     rya ryu ryo	ryo rya ryu	Level3	Matching
+Katakana	Put the pronunciations in the correct order.     シュ ショ シャ     sha shu sho	shu sho sha	Level3	Matching
+Katakana	Put the pronunciations in the correct order.     ギャ ギュ ギョ     gya gyu gyo	gya gyu gyo	Level4	Matching
+Katakana	Put the pronunciations in the correct order.     ビョ ビュ ビャ     bya byu byo	byo byu bya	Level4	Matching
+Katakana	Put the pronunciations in the correct order.     ピュ ピョ ピャ     pya pyu pyo	pyu pyo pya	Level4	Matching
+Katakana	Put the pronunciations in the correct order.     ジュ ジャ ジョ     jya jyu jyo	jyu jya jyo	Level4	Matching
+Katakana	Put the pronunciations in the correct order.     ヒャ ピャ ビャ     hya bya pya	hya pya bya	Level4	Matching
+Katakana	Put the pronunciations in the correct order.     ヒョ ビャ ピュ     pyu bya hyo	hyo bya pyu	Level4	Matching
+Katakana	What is the correct pronunciation for "カ"?     ka ga ku ki	ka	Level1	MultipleChoice
+Katakana	What is the correct pronunciation for "ク"?     ki fu ku ra	ku	Level1	MultipleChoice
+Katakana	What is the correct pronunciation for "コ"?     ka ke ni ko	ko	Level1	MultipleChoice
+Katakana	What is the correct pronunciation for "シ"?     si shi se no	shi	Level1	MultipleChoice
+Katakana	What is the correct pronunciation for "セ"?     sa se ya mu	se	Level1	MultipleChoice
+Katakana	What is the correct pronunciation for "ス"?     to da su mu	su	Level1	MultipleChoice
+Katakana	What is the correct pronunciation for "ギ"?     gi ki sa za	gi	Level2	MultipleChoice
+Katakana	What is the correct pronunciation for "ズ"?     su zu ta da	zu	Level2	MultipleChoice
+Katakana	What is the correct pronunciation for "デ"?     he te de be	de	Level2	MultipleChoice
+Katakana	What is the correct pronunciation for "ブ"?     fu su ru bu	bu	Level2	MultipleChoice
+Katakana	What is the correct pronunciation for "パ"?     ha po pa ba	pa	Level2	MultipleChoice
+Katakana	What is the correct pronunciation for "ダ"?     da ta go ko	da	Level2	MultipleChoice
+Katakana	What is the correct pronunciation for "キョ"?     kyo kyou gyo gyou	kyo	Level3	MultipleChoice
+Katakana	What is the correct pronunciation for "ニュ"?     nya nyu nyi nyo	nyu	Level3	MultipleChoice
+Katakana	What is the correct pronunciation for "ミャ"?     miya myo mya miyo	mya	Level3	MultipleChoice
+Katakana	What is the correct pronunciation for "チュ"?     chyu chiyu chuu chu	chu	Level3	MultipleChoice
+Katakana	What is the correct pronunciation for "シャ"?     shya sya sha sa	sha	Level3	MultipleChoice
+Katakana	What is the correct pronunciation for "リュ"?     rya ryu ryo rye	ryu	Level3	MultipleChoice
+Katakana	What is the correct pronunciation for "ギョ"?     gyo gyou kyo kyou	gyo	Level4	MultipleChoice
+Katakana	What is the correct pronunciation for "ビュ"?     bya byu pyu pya	byu	Level4	MultipleChoice
+Katakana	What is the correct pronunciation for "ジョ"?     sho sha jyo jya	jyo	Level4	MultipleChoice
+Katakana	What is the correct pronunciation for "ジャ"?     sha shu jyu jya	jya	Level4	MultipleChoice
+Katakana	What is the correct pronunciation for "ピュ"?     hyu byu pyu gyu	pyu	Level4	MultipleChoice
+Katakana	What is the correct pronunciation for "ギュ"?     kyu gyu kya gya	gyu	Level4	MultipleChoice
+Katakana	The pronunciation for "モ" is _____?	mo	Level1	FillInTheBlank
+Katakana	The pronunciation for "ヤ" is _____?	ya	Level1	FillInTheBlank
+Katakana	The pronunciation for "ヨ" is _____?	yo	Level1	FillInTheBlank
+Katakana	The pronunciation for "ン" is _____?	n	Level1	FillInTheBlank
+Katakana	The pronunciation for "ワ" is _____?	wa	Level1	FillInTheBlank
+Katakana	The pronunciation for "リ" is _____?	ri	Level1	FillInTheBlank
+Katakana	The pronunciation for "ガ" is _____?	ga	Level2	FillInTheBlank
+Katakana	The pronunciation for "ゼ" is _____?	ze	Level2	FillInTheBlank
+Katakana	The pronunciation for "ド" is _____?	do	Level2	FillInTheBlank
+Katakana	The pronunciation for "ビ" is _____?	bi	Level2	FillInTheBlank
+Katakana	The pronunciation for "ペ" is _____?	pe	Level2	FillInTheBlank
+Katakana	The pronunciation for "ジ" is _____?	ji	Level2	FillInTheBlank
+Katakana	The pronunciation for "キュ" is _____?	kyu	Level3	FillInTheBlank
+Katakana	The pronunciation for "ニャ" is _____?	nya	Level3	FillInTheBlank
+Katakana	The pronunciation for "ミョ" is _____?	myo	Level3	FillInTheBlank
+Katakana	The pronunciation for "ヒャ" is _____?	hya	Level3	FillInTheBlank
+Katakana	The pronunciation for "リョ" is _____?	ryo	Level3	FillInTheBlank
+Katakana	The pronunciation for "チャ" is _____?	cha	Level3	FillInTheBlank
+Katakana	The pronunciation for "ウェ" is _____?	we	Level4	FillInTheBlank
+Katakana	The pronunciation for "ディ" is _____?	di	Level4	FillInTheBlank
+Katakana	The pronunciation for "トゥ" is _____?	tu	Level4	FillInTheBlank
+Katakana	The pronunciation for "ドュ" is _____?	dyu	Level4	FillInTheBlank
+Katakana	The pronunciation for "フィ" is _____?	fi	Level4	FillInTheBlank
+Katakana	The pronunciation for "フュ" is _____?	fyu	Level4	FillInTheBlank

@@ -1,0 +1,96 @@
+Hiragana	T/F: The pronunciation of "あ" is "a".	T	Level1	T/F
+Hiragana	T/F: The pronunciation of "い" is "i".	T	Level1	T/F
+Hiragana	T/F: The pronunciation of "う" is "i".	F	Level1	T/F
+Hiragana	T/F: The pronunciation of "え" is "e".	T	Level1	T/F
+Hiragana	T/F: The pronunciation of "お" is "a".	F	Level1	T/F
+Hiragana	T/F: The pronunciation of "お" is "o".	T	Level1	T/F
+Hiragana	T/F: The pronunciation of "が" is "ka".	F	Level2	T/F
+Hiragana	T/F: The pronunciation of "ざ" is "za".	T	Level2	T/F
+Hiragana	T/F: The pronunciation of "だ" is "da".	T	Level2	T/F
+Hiragana	T/F: The pronunciation of "ば" is "po".	F	Level2	T/F
+Hiragana	T/F: The pronunciation of "ぱ" is "po".	T	Level2	T/F
+Hiragana	T/F: The pronunciation of "ざ" is "gi".	F	Level2	T/F
+Hiragana	T/F: The pronunciation of "きゃ" is "kya".	T	Level3	T/F
+Hiragana	T/F: The pronunciation of "にゅ" is "nya".	F	Level3	T/F
+Hiragana	T/F: The pronunciation of "ひょ" is "pyo".	F	Level3	T/F
+Hiragana	T/F: The pronunciation of "みゃ" is "mya".	T	Level3	T/F
+Hiragana	T/F: The pronunciation of "りゅ" is "ryu".	T	Level3	T/F
+Hiragana	T/F: The pronunciation of "しょ" is "shou".	F	Level3	T/F
+Hiragana	T/F: The pronunciation of "ぎゃ" is "gya".	T	Level4	T/F
+Hiragana	T/F: The pronunciation of "びゅ" is "byu".	T	Level4	T/F
+Hiragana	T/F: The pronunciation of "ぴょ" is "pyo".	T	Level4	T/F
+Hiragana	T/F: The pronunciation of "じゃ" is "sha".	F	Level4	T/F
+Hiragana	T/F: The pronunciation of "ぎゃ" is "kya".	F	Level4	T/F
+Hiragana	T/F: The pronunciation of "びゅ" is "pyu".	F	Level4	T/F
+Hiragana	Put the pronunciations in the correct order.     き け さ ち     chi sa ke ki	ki ke sa chi	Level1	Matching
+Hiragana	Put the pronunciations in the correct order.     そ た ち つ     so ta chi tsu	so ta chi tsu	Level1	Matching
+Hiragana	Put the pronunciations in the correct order.     と て に な     ni te to na	to te ni na	Level1	Matching
+Hiragana	Put the pronunciations in the correct order.     ぬ の ね は     no ne ha nu	nu no ne ha	Level1	Matching
+Hiragana	Put the pronunciations in the correct order.     ひ ほ へ ふ     hi he ho fu	hi ho he fu	Level1	Matching
+Hiragana	Put the pronunciations in the correct order.     み ま む め     me mu ma mi	mi ma mu me	Level1	Matching
+Hiragana	Put the pronunciations in the correct order.     ぎ ぐ げ ご     gu ge gi go	gi gu ge go	Level2	Matching
+Hiragana	Put the pronunciations in the correct order.     ぞ ぜ ず じ     zo ze ji zu	zo ze zu ji	Level2	Matching
+Hiragana	Put the pronunciations in the correct order.     ぢ で づ ど     do dzu de dji	dji de dzu do	Level2	Matching
+Hiragana	Put the pronunciations in the correct order.     ぼ び べ ぶ     bi be bo bu	bo bi be bu	Level2	Matching
+Hiragana	Put the pronunciations in the correct order.     ぺ ぷ ぴ ぽ     pe po pu pi	pe pu pi po	Level2	Matching
+Hiragana	Put the pronunciations in the correct order.     ぞ ご ど ぼ     go zo bo do	zo go do bo	Level2	Matching
+Hiragana	Put the pronunciations in the correct order.     きゃ きゅ きょ     kya kyu kyo	kya kyu kyo	Level3	Matching
+Hiragana	Put the pronunciations in the correct order.     にょ にゅ にゃ     nya nyu nyo	nyo nyu nya	Level3	Matching
+Hiragana	Put the pronunciations in the correct order.     ひゅ ひゃ ひょ     hya hyu hyo	hyu hya hyo	Level3	Matching
+Hiragana	Put the pronunciations in the correct order.     みゃ みょ みゅ     mya myu myo	mya myo myu	Level3	Matching
+Hiragana	Put the pronunciations in the correct order.     りょ りゃ りゅ     rya ryu ryo	ryo rya ryu	Level3	Matching
+Hiragana	Put the pronunciations in the correct order.     しゅ しょ しゃ     sha shu sho	shu sho sha	Level3	Matching
+Hiragana	Put the pronunciations in the correct order.     ぎゃ ぎゅ ぎょ     gya gyu gyo	gya gyu gyo	Level4	Matching
+Hiragana	Put the pronunciations in the correct order.     びょ びゅ びゃ     bya byu byo	byo byu bya	Level4	Matching
+Hiragana	Put the pronunciations in the correct order.     ぴゅ ぴょ ぴゃ     pya pyu pyo	pyu pyo pya	Level4	Matching
+Hiragana	Put the pronunciations in the correct order.     じゅ じゃ じょ     jya jyu jyo	jyu jya jyo	Level4	Matching
+Hiragana	Put the pronunciations in the correct order.     ひゃ ぴゃ びゃ     hya bya pya	hya pya bya	Level4	Matching
+Hiragana	Put the pronunciations in the correct order.     ひょ びゃ ぴゅ     pyu bya hyo	hyo bya pyu	Level4	Matching
+Hiragana	What is the correct pronunciation for "か"?     ka ga ku ki	ka	Level1	MultipleChoice
+Hiragana	What is the correct pronunciation for "く"?     ki fu ku ra	ku	Level1	MultipleChoice
+Hiragana	What is the correct pronunciation for "こ"?     ka ke ni ko	ko	Level1	MultipleChoice
+Hiragana	What is the correct pronunciation for "し"?     si shi se no	shi	Level1	MultipleChoice
+Hiragana	What is the correct pronunciation for "せ"?     sa se ya mu	se	Level1	MultipleChoice
+Hiragana	What is the correct pronunciation for "す"?     to da su mu	su	Level1	MultipleChoice
+Hiragana	What is the correct pronunciation for "ぎ"?     gi ki sa za	gi	Level2	MultipleChoice
+Hiragana	What is the correct pronunciation for "ず"?     su zu ta da	zu	Level2	MultipleChoice
+Hiragana	What is the correct pronunciation for "で"?     he te de be	de	Level2	MultipleChoice
+Hiragana	What is the correct pronunciation for "ぶ"?     fu su ru bu	bu	Level2	MultipleChoice
+Hiragana	What is the correct pronunciation for "ぱ"?     ha po pa ba	pa	Level2	MultipleChoice
+Hiragana	What is the correct pronunciation for "だ"?     da ta go ko	da	Level2	MultipleChoice
+Hiragana	What is the correct pronunciation for "きょ"?     kyo kyou gyo gyou	kyo	Level3	MultipleChoice
+Hiragana	What is the correct pronunciation for "にゅ"?     nya nyu nyi nyo	nyu	Level3	MultipleChoice
+Hiragana	What is the correct pronunciation for "みゃ"?     miya myo mya miyo	mya	Level3	MultipleChoice
+Hiragana	What is the correct pronunciation for "ちゅ"?     chyu chiyu chuu chu	chu	Level3	MultipleChoice
+Hiragana	What is the correct pronunciation for "しゃ"?     shya sya sha sa	sha	Level3	MultipleChoice
+Hiragana	What is the correct pronunciation for "りゅ"?     rya ryu ryo rye	ryu	Level3	MultipleChoice
+Hiragana	What is the correct pronunciation for "ぎょ"?     gyo gyou kyo kyou	gyo	Level4	MultipleChoice
+Hiragana	What is the correct pronunciation for "びゅ"?     bya byu pyu pya	byu	Level4	MultipleChoice
+Hiragana	What is the correct pronunciation for "じょ"?     sho sha jyo jya	jyo	Level4	MultipleChoice
+Hiragana	What is the correct pronunciation for "じゃ"?     sha shu jyu jya	jya	Level4	MultipleChoice
+Hiragana	What is the correct pronunciation for "ぴゅ"?     hyu byu pyu gyu	pyu	Level4	MultipleChoice
+Hiragana	What is the correct pronunciation for "ぎゅ"?     kyu gyu kya gya	gyu	Level4	MultipleChoice
+Hiragana	The pronunciation for "も" is _____?	mo	Level1	FillInTheBlank
+Hiragana	The pronunciation for "や" is _____?	ya	Level1	FillInTheBlank
+Hiragana	The pronunciation for "よ" is _____?	yo	Level1	FillInTheBlank
+Hiragana	The pronunciation for "ん" is _____?	n	Level1	FillInTheBlank
+Hiragana	The pronunciation for "わ" is _____?	wa	Level1	FillInTheBlank
+Hiragana	The pronunciation for "り" is _____?	ri	Level1	FillInTheBlank
+Hiragana	The pronunciation for "が" is _____?	ga	Level2	FillInTheBlank
+Hiragana	The pronunciation for "ぜ" is _____?	ze	Level2	FillInTheBlank
+Hiragana	The pronunciation for "ど" is _____?	do	Level2	FillInTheBlank
+Hiragana	The pronunciation for "び" is _____?	bi	Level2	FillInTheBlank
+Hiragana	The pronunciation for "ぺ" is _____?	pe	Level2	FillInTheBlank
+Hiragana	The pronunciation for "じ" is _____?	ji	Level2	FillInTheBlank
+Hiragana	The pronunciation for "きゅ" is _____?	kyu	Level3	FillInTheBlank
+Hiragana	The pronunciation for "にゃ" is _____?	nya	Level3	FillInTheBlank
+Hiragana	The pronunciation for "みょ" is _____?	myo	Level3	FillInTheBlank
+Hiragana	The pronunciation for "ひゃ" is _____?	hya	Level3	FillInTheBlank
+Hiragana	The pronunciation for "りょ" is _____?	ryo	Level3	FillInTheBlank
+Hiragana	The pronunciation for "ちゃ" is _____?	cha	Level3	FillInTheBlank
+Hiragana	The pronunciation for "ぎゅ" is _____?	gyu	Level4	FillInTheBlank
+Hiragana	The pronunciation for "じゅ" is _____?	jyu	Level4	FillInTheBlank
+Hiragana	The pronunciation for "びょ" is _____?	byo	Level4	FillInTheBlank
+Hiragana	The pronunciation for "ぴょ" is _____?	pyo	Level4	FillInTheBlank
+Hiragana	The pronunciation for "ぎゃ" is _____?	gya	Level4	FillInTheBlank
+Hiragana	The pronunciation for "びゃ" is _____?	bya	Level4	FillInTheBlank

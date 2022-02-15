@@ -1,0 +1,96 @@
+Vocabulary	T/F: The vocabulary pronunciation of "上" is "ue".	T	Level1	T/F
+Vocabulary	T/F: The vocabulary pronunciation of "下" is "ka".	F	Level1	T/F
+Vocabulary	T/F: The vocabulary pronunciation of "入る" is "ireru".	F	Level1	T/F
+Vocabulary	T/F: The vocabulary pronunciation of "女" is "onna".	T	Level1	T/F
+Vocabulary	T/F: The vocabulary pronunciation of "二人" is "futari".	T	Level1	T/F
+Vocabulary	T/F: The vocabulary pronunciation of "上る" is "ageru".	F	Level1	T/F
+Vocabulary	T/F: The vocabulary pronunciation of "少ない" is "sukunai".	T	Level2	T/F
+Vocabulary	T/F: The vocabulary pronunciation of "少ない" is "sukonai".	F	Level2	T/F
+Vocabulary	T/F: The vocabulary pronunciation of "少し" is "sukoshi".	T	Level2	T/F
+Vocabulary	T/F: The vocabulary pronunciation of "市" is "kyou".	F	Level2	T/F
+Vocabulary	T/F: The vocabulary pronunciation of "牛" is "ushi".	T	Level2	T/F
+Vocabulary	T/F: The vocabulary pronunciation of "牛" is "gyuu".	F	Level2	T/F
+Vocabulary	T/F: The vocabulary pronunciation of "名人" is "meijin".	T	Level3	T/F
+Vocabulary	T/F: The vocabulary pronunciation of "名人" is "myoujin".	F	Level3	T/F
+Vocabulary	T/F: The vocabulary pronunciation of "気分" is "kibun".	T	Level3	T/F
+Vocabulary	T/F: The vocabulary pronunciation of "気分" is "kiwa".	F	Level3	T/F
+Vocabulary	T/F: The vocabulary pronunciation of "花火" is "hanabi".	T	Level3	T/F
+Vocabulary	T/F: The vocabulary pronunciation of "花火" is "hanahi".	F	Level3	T/F
+Vocabulary	T/F: The vocabulary pronunciation of "作用" is "sayou".	T	Level4	T/F
+Vocabulary	T/F: The vocabulary pronunciation of "作用" is "sakuyou".	F	Level4	T/F
+Vocabulary	T/F: The vocabulary pronunciation of "仕草" is "shigusa".	T	Level4	T/F
+Vocabulary	T/F: The vocabulary pronunciation of "仕草" is "shikusa".	F	Level4	T/F
+Vocabulary	T/F: The vocabulary pronunciation of "万人" is "bannin".	T	Level4	T/F
+Vocabulary	T/F: The vocabulary pronunciation of "万人" is "mannin".	F	Level4	T/F
+Vocabulary	Put the vocabulary pronunciations in the correct order.     大人 一人 人工 口     otona hitori jinkou kuchi	otona hitori jinkou kuchi	Level1	Matching
+Vocabulary	Put the vocabulary pronunciations in the correct order.     大きい 大した 入り口 下さい     kudasai iriguchi taishita ooki	ooki taishita iriguchi kudasai	Level1	Matching
+Vocabulary	Put the vocabulary pronunciations in the correct order.     八つ 九つ 七つ 三つ     kokonotsu nanatsu yattsu mittsu	yattsu kokonotsu nanatsu mittsu	Level1	Matching
+Vocabulary	Put the vocabulary pronunciations in the correct order.     上がる 上げる 下げる 上る     ageru agaru noboru sageru	agaru ageru sageru noboru	Level1	Matching
+Vocabulary	Put the vocabulary pronunciations in the correct order.     入る 入れる ふじ山 山     yama ireru hairu fujisan	hairu ireru fujisan yama	Level1	Matching
+Vocabulary	Put the vocabulary pronunciations in the correct order.     丸 又 本 玉     hon tama maru mata	maru mata hon tama	Level1	Matching
+Vocabulary	Put the vocabulary pronunciations in the correct order.     台 戸口 外れ 太い     dai toguchi hazure futoi	dai toguchi hazure futoi	Level2	Matching
+Vocabulary	Put the vocabulary pronunciations in the correct order.     お父さん お母さん 生 友人     yuujin nama okaasan otousan	otousan okaasan nama yuujin	Level2	Matching
+Vocabulary	Put the vocabulary pronunciations in the correct order.     少女 公用 半分 心     kouyou hanbun kokoro shoujo	shoujo kouyou hanbun kokoro	Level2	Matching
+Vocabulary	Put the vocabulary pronunciations in the correct order.     大切 内 ビー玉 分     bi-dama uchi taisetsu fun	taisetsu uchi bi-dama fun	Level2	Matching
+Vocabulary	Put the vocabulary pronunciations in the correct order.     市立 北 今 古い     furui shiritsu ima kita	shiritsu kita ima furui	Level2	Matching
+Vocabulary	Put the vocabulary pronunciations in the correct order.     人生 元 外 切る     moto kiru jinsei soto	jinsei moto soto kiru	Level2	Matching
+Vocabulary	Put the vocabulary pronunciations in the correct order.     一年生 五百 平ら 主人     shujin taira gohyaku ichinensei	ichinensei gohyaku taira shujin	Level3	Matching
+Vocabulary	Put the vocabulary pronunciations in the correct order.     花 足 休日 不正     ashi kyuujitsu fusei hana	hana ashi kyuujitsu fusei	Level3	Matching
+Vocabulary	Put the vocabulary pronunciations in the correct order.     四十 四百 四月 四日     shigatsu yonhyaku yokka yonjyuu	yonjyuu yonhyaku shigatsu yokka	Level3	Matching
+Vocabulary	Put the vocabulary pronunciations in the correct order.     車内 宝石 先月 去年     kyonen shanai houseki sengetsu	shanai houseki sengetsu kyonen	Level3	Matching
+Vocabulary	Put the vocabulary pronunciations in the correct order.     左手 文字 一代 主に     hidarite ichidai omoni moji	hidarite moji ichidai omoni	Level3	Matching
+Vocabulary	Put the vocabulary pronunciations in the correct order.     男 仕方 名 一気     na ikki otoko shikata	otoko shikata na ikki	Level3	Matching
+Vocabulary	Put the vocabulary pronunciations in the correct order.     古来 大作 考古学 牛肉     gyuuniku koukogaku taisaku korai	korai taisaku koukogaku gyuuniku	Level4	Matching
+Vocabulary	Put the vocabulary pronunciations in the correct order.     当たり 今すぐ 生まれ 男の子     imasugu umare otokonoko atari	atari imasugu umare otokonoko	Level4	Matching
+Vocabulary	Put the vocabulary pronunciations in the correct order.     兄弟 毛虫 会社 社会     kaisha shakai kemushi kyoudai	kyoudai kemushi kaisha shakai	Level4	Matching
+Vocabulary	Put the vocabulary pronunciations in the correct order.     作文 外交 下町 毎日     shitamachi mainichi gaikou sakubun	sakubun gaikou shitamachi mainichi	Level4	Matching
+Vocabulary	Put the vocabulary pronunciations in the correct order.     里心 何人 自立 皮肉     satogokoro hiniku nannin jiritsu	satogokoro nannin jiritsu hiniku	Level4	Matching
+Vocabulary	Put the vocabulary pronunciations in the correct order.     大声 光年 多分 お金     kounen tabun okane oogoe	oogoe kounen tabun okane	Level4	Matching
+Vocabulary	What is the correct vocabulary pronunciation for "正しい"?     tadashii seishii soushii ureshii	tadashii	Level1	MultipleChoice
+Vocabulary	What is the correct vocabulary pronunciation for "夕べ"?     yuuhe yuube tahe tabe	yuube	Level1	MultipleChoice
+Vocabulary	What is the correct vocabulary pronunciation for "天才"?     tenshi teno tensai jyuusen	tensai	Level1	MultipleChoice
+Vocabulary	What is the correct vocabulary pronunciation for "上手"?     heta uete jyoute jyouzu	jyouzu	Level1	MultipleChoice
+Vocabulary	What is the correct vocabulary pronunciation for "下手"?     heta jyouzu kate shitake	heta	Level1	MultipleChoice
+Vocabulary	What is the correct vocabulary pronunciation for "中"?     chuu naka yuu mou	naka	Level1	MultipleChoice
+Vocabulary	What is the correct vocabulary pronunciation for "今日"?     kyou konnichi ima kongetsu	kyou	Level2	MultipleChoice
+Vocabulary	What is the correct vocabulary pronunciation for "生む"?     ikiru umu seimu imu	umu	Level2	MultipleChoice
+Vocabulary	What is the correct vocabulary pronunciation for "止まる"?     shimaru shimeru tomaru tomeru	tomaru	Level2	MultipleChoice
+Vocabulary	What is the correct vocabulary pronunciation for "分かる"?     wakeru bunkaru funkeru wakaru	wakaru	Level2	MultipleChoice
+Vocabulary	What is the correct vocabulary pronunciation for "方"?     sen kata hou man	kata	Level2	MultipleChoice
+Vocabulary	What is the correct vocabulary pronunciation for "冬"?     natsu haru fuyu aki	fuyu	Level2	MultipleChoice
+Vocabulary	What is the correct vocabulary pronunciation for "一打"?     ichida ichiu ichidai idda	ichida	Level3	MultipleChoice
+Vocabulary	What is the correct vocabulary pronunciation for "一本気"?     ichihonki ippongi ipponki ichihongi	ippongi	Level3	MultipleChoice
+Vocabulary	What is the correct vocabulary pronunciation for "他"?     ada ta hoka mou	hoka	Level3	MultipleChoice
+Vocabulary	What is the correct vocabulary pronunciation for "休止"?     yasuto kyuuto yasushi kyuushi	kyuushi	Level3	MultipleChoice
+Vocabulary	What is the correct vocabulary pronunciation for "人気"?     hitoki jinki ninki toki	ninki	Level3	MultipleChoice
+Vocabulary	What is the correct vocabulary pronunciation for "切手"?     kite kitte setsute sette	kitte	Level3	MultipleChoice
+Vocabulary	What is the correct vocabulary pronunciation for "北東"?     hokutou touhoku kitatou kitahigashi	hokutou	Level4	MultipleChoice
+Vocabulary	What is the correct vocabulary pronunciation for "南西"?     minaminishi nansei seinan nishiminami	nansei	Level4	MultipleChoice
+Vocabulary	What is the correct vocabulary pronunciation for "一回"?     ichimawa ikkamawa ikkai ichikai	ikkai	Level4	MultipleChoice
+Vocabulary	What is the correct vocabulary pronunciation for "同日"?     douka douhi doubi doujitsu	doujitsu	Level4	MultipleChoice
+Vocabulary	What is the correct vocabulary pronunciation for "水色"?     mizuro miiro mizuiro suiiro	mizuiro	Level4	MultipleChoice
+Vocabulary	What is the correct vocabulary pronunciation for "金玉"?     gintama kintama gindama kindama	kintama	Level4	MultipleChoice
+Vocabulary	The vocabulary pronunciation for "日本" is _____?	nihon	Level1	FillInTheBlank
+Vocabulary	The vocabulary pronunciation for "子" is _____?	ko	Level1	FillInTheBlank
+Vocabulary	The vocabulary pronunciation for "月" is _____?	tsuki	Level1	FillInTheBlank
+Vocabulary	The vocabulary pronunciation for "一月" is _____?	ichigatsu	Level1	FillInTheBlank
+Vocabulary	The vocabulary pronunciation for "左" is _____?	hidari	Level1	FillInTheBlank
+Vocabulary	The vocabulary pronunciation for "右" is _____?	migi	Level1	FillInTheBlank
+Vocabulary	The vocabulary pronunciation for "竹" is _____?	take	Level2	FillInTheBlank
+Vocabulary	The vocabulary pronunciation for "他人" is _____?	tanin	Level2	FillInTheBlank
+Vocabulary	The vocabulary pronunciation for "少年" is _____?	shounen	Level2	FillInTheBlank
+Vocabulary	The vocabulary pronunciation for "子牛" is _____?	koushi	Level2	FillInTheBlank
+Vocabulary	The vocabulary pronunciation for "耳" is _____?	mimi	Level2	FillInTheBlank
+Vocabulary	The vocabulary pronunciation for "元気" is _____?	genki	Level2	FillInTheBlank
+Vocabulary	The vocabulary pronunciation for "先" is _____?	saki	Level3	FillInTheBlank
+Vocabulary	The vocabulary pronunciation for "年中" is _____?	nenjyuu	Level3	FillInTheBlank
+Vocabulary	The vocabulary pronunciation for "休み" is _____?	yasumi	Level3	FillInTheBlank
+Vocabulary	The vocabulary pronunciation for "二世" is _____?	nisei	Level3	FillInTheBlank
+Vocabulary	The vocabulary pronunciation for "お礼" is _____?	orei	Level3	FillInTheBlank
+Vocabulary	The vocabulary pronunciation for "写す" is _____?	utsusu	Level3	FillInTheBlank
+Vocabulary	The vocabulary pronunciation for "外れ" is _____?	hazure	Level4	FillInTheBlank
+Vocabulary	The vocabulary pronunciation for "当たる" is _____?	ataru	Level4	FillInTheBlank
+Vocabulary	The vocabulary pronunciation for "見える" is _____?	mieru	Level4	FillInTheBlank
+Vocabulary	The vocabulary pronunciation for "学ぶ" is _____?	manabu	Level4	FillInTheBlank
+Vocabulary	The vocabulary pronunciation for "回る" is _____?	mawaru	Level4	FillInTheBlank
+Vocabulary	The vocabulary pronunciation for "走る" is _____?	hashiru	Level4	FillInTheBlank
